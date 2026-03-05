@@ -36,8 +36,6 @@ npm start
 yarn start
 ```
 
-Then, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the Focus App.
-
 ## Technologies Used
 
 - JavaScript/TypeScript
@@ -59,6 +57,4 @@ Contributions are welcome! Please open issues and pull requests for any improvem
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For questions or feedback, please reach out via issues or [manasaa01](https://github.com/manasaa01).
